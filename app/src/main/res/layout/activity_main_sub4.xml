@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_sub4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:text="복근운동"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="662dp"
+        android:text="복근은 내장을 보호하고 허리를 강화시키는 근육으로 크게 복직근, 내복사근, 외복사근으로 나눌 수 있다. 남녀 불문하고 몸매를 다듬는 데 가장 주요한 운동 부위이지만, 의외로 잘못된 운동법을 알고 있는 경우가 많다.
+
+가장 많이 하는 실수가 복근이 아닌 다른 근육을 긴장하는 것이다. 복근 운동을 하고 난 다음 목이나 어깨 쪽이 아프다면, 이는 목을 당기면서 잘못 운동했기 때문이다. 머리를 너무 가슴 쪽으로 당기며 운동하는 것 또한 잘못된 운동 방법이다. 일반적으로 손을 목 뒤로 두는 이유는 복근에 더 많은 부하를 주고, 목을 편하게 받치기 위해서이다.
+
+가장 많이 하는 또 하나의 실수는 호흡에 관한 것이다. 가장 많이 하는 크런치 동작을 예로 들었을 때, 동작 수행 시 상체를 올리며 호흡을 참는 경우가 있는데 이는 잘못된 방법이다. 힘이 복근에 제대로 전달되지 않을 수 있다. 상체를 올리는 동작에서 호흡을 내쉬며 근육을 짜는 듯한 느낌을 느껴야 한다.
+
+복부 전면에서 치골까지 연결되어 있어 그 길이가 상당히 긴 복직근은 대개 몸을 앞으로 구부릴 때 작용한다고 알고 있지만 사실은 중력에 대항하여 우리의 몸통이 앞으로 구부러지지 않도록 항중력 작용 기능을 하는 아주 중요한 근육이다. 대표적인 복직근 강화 운동법에는 싯업, 크런치, 리버스 크런치, 케이블 크런치, 레그 레이즈, 행잉 레그 레이즈, V업, 시티드 니 업 등이 있다.
+
+복부 전면 옆구리 쪽에는 내복사근과 외복사근이 있다. 이들은 서로 길항 작용을 하며, 몸통이 좌우 어느 한쪽으로 틀어지지 않게 하는 항회전근의 기능을 갖고 있다. 운동법에는 오블리크 크런치, 덤벨 사이드 벤드, 리버스 트렁크 트위스트, 크로스 크런치, 러시안 트위스트 등이 있다.
+[네이버 지식백과] 복부 운동 [Abdominis Exercise] (동영상으로 배우는 근력운동, 아시아월드짐)|"></TextView>
+
+
+
+</LinearLayout>

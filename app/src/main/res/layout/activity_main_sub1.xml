@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_sub1"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="전신운동"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="662dp"
+        android:text="운동 개요 전신 운동은 시간이 없는 바쁜 사람들에게 빠르고 아주 효과적인 체력 강화 및 다이어트 운동법이다. 전신 운동은 우리 몸의 큰 근육들을 한 동작으로 모두 움직이게 하여 짧은 시간 안에 많은 칼로리를 소모시키고 근지구력과 심혈관 계통에 도움을 주는 동작들이다. 유산소 운동과 근력 운동 두 가지 효과를 한 번에 얻고 싶다면 전신 운동을 추천한다.  전신 운동에는 국민 운동으로 불리우는 팔 벌려 뛰기, 쉽고 간단한 동작으로 언제 어디서나 쉽게 할 수 있는 제자리 뛰기, 체지방 연소에 탁월한 암 워킹과 하드 클린, 강도 높은 전신 집중 운동인 버피 테스트, 볼을 이용한 리버스 힙 레이즈 등이 있다. [네이버 지식백과] 전신 운동 [Whole Body Exercise] (동영상으로 배우는 근력운동, 아시아월드짐)전신운동"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_sub3"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:text="하체운동"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="662dp"
+        android:text="신체에 붙은 골격근 중 70%는 등과 하체에 있다. 허벅지 앞쪽에 붙어 있는 대퇴사두근과 뒤쪽에 있는 햄스트링은 신체에서 가장 큰 근육 중 하나이다. 큰 근육을 사용하기 때문에 소모되는 칼로리도 많으며, 이 근육은 골반을 굽히고 무릎을 펴는 운동을 가능케 하는 아주 중요한 근육들이다. 운동 부족 및 노화로 인한 이 근육들의 감소는 보행에 문제를 일으킬 수 있다.
+[네이버 지식백과] 허벅지 부위 운동 가이드 (운동가이드, 김광준, 국민체육진흥공단 체육과학연구원)"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+</LinearLayout>

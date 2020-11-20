@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_sub2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:text="상체운동"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="662dp"
+        android:text="예쁜 상체 가꾸는 머신 운동 - 여자편은 머신 운동 중심으로 상체 근육을 단련하여 군살 없는 탄력적인 상체를 가꿀 수 있도록 짜여진 운동 프로그램이다. 가슴의 탄력을 키우고 모아주는 크로스 오버 - 케이블, 엉덩이를 업 시키고 허벅지 앞면을 자극하는 런지 - 바벨, 등의 군살을 잡아주는 로우 - 티바, 가슴이 활짝 펴지고 어깨를 강하게 해주는 비하인드 넥 프레스 - 바벨 총 다섯 가지 운동으로 구성되어 있다. 하나의 운동당 15회씩, 다섯 가지 운동을 연결하여 총 4세트 반복하면 건강미 넘치는 매력적인 상체를 만날 수 있다.
+[네이버 지식백과] 예쁜 상체 가꾸는 머신 운동 - 여자편 (동영상으로 배우는 근력운동 프로그램)"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+</LinearLayout>
