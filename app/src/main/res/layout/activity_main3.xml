@@ -42,7 +42,7 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="270dp">
 
 
         <ImageView
@@ -59,21 +59,6 @@
             app:srcCompat="@drawable/squtetoptext" />
 
         <ImageView
-            android:id="@+id/imageView7"
-            android:layout_width="match_parent"
-            android:layout_height="280dp"
-            android:layout_marginTop="30dp"
-            app:srcCompat="@drawable/c_squat" />
-
-        <ImageView
-            android:id="@+id/imageView16"
-            android:layout_width="120dp"
-            android:layout_height="88dp"
-            android:layout_marginLeft="140dp"
-            android:layout_marginTop="120dp"
-            app:srcCompat="@drawable/c_squatplay" />
-
-        <ImageView
             android:id="@+id/imageView6"
             android:layout_width="112dp"
             android:layout_height="72dp"
@@ -84,32 +69,32 @@
             android:id="@+id/imageView51"
             android:layout_width="84dp"
             android:layout_height="84dp"
-            android:layout_marginTop="323dp"
             android:layout_marginLeft="23dp"
+            android:layout_marginTop="323dp"
             app:srcCompat="@drawable/c_1" />
 
         <ImageView
             android:id="@+id/imageView52"
             android:layout_width="84dp"
             android:layout_height="84dp"
-            android:layout_marginTop="320dp"
             android:layout_marginLeft="110dp"
+            android:layout_marginTop="320dp"
             app:srcCompat="@drawable/c_4" />
 
         <ImageView
             android:id="@+id/imageView53"
             android:layout_width="84dp"
             android:layout_height="84dp"
-            android:layout_marginTop="320dp"
             android:layout_marginLeft="203dp"
+            android:layout_marginTop="320dp"
             app:srcCompat="@drawable/c_8" />
 
         <ImageView
             android:id="@+id/imageView54"
             android:layout_width="84dp"
             android:layout_height="84dp"
-            android:layout_marginTop="320dp"
             android:layout_marginLeft="295dp"
+            android:layout_marginTop="320dp"
             app:srcCompat="@drawable/c_7" />
 
         <ImageView
@@ -157,8 +142,16 @@
             android:layout_width="225dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
-            android:background="#00ff0000"
-            android:layout_marginTop="510dp" />
+            android:layout_marginTop="510dp"
+            android:background="#00ff0000" />
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtubeView"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:layout_marginTop="80dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
 
     </FrameLayout>
